@@ -6,10 +6,10 @@ Did I miss something?  Please submit a pull request!
 
 ## GitHub
 - Every repo you've starred
-  - https://github.com/<USERNAME>?tab=stars
+  - https://github.com/USERNAME?tab=stars
 
 ## Medium
 - Your posts (duh)
-  - https://medium.com/@<USERNAME>
+  - https://medium.com/@USERNAME
 - Every article you've clapped for
-  - https://medium.com/@<USERNAME>/has-recommended
+  - https://medium.com/@USERNAME/has-recommended
